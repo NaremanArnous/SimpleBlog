@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+    width:300px;
+    height: 40px;
+  padding: 10px;
+    text-align: center;
+    background-color: white;
+    margin-bottom: 20px;
+}
+body{
+    background-color: whitesmoke;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.contianer{
+    margin: 0 auto;
+    background-color: white;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.head{
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.ArticleHead{
+    padding-top: 10px;
+}
+small{
+    color: rgb(105, 229, 188);
+    font-size: 12px;
+    }
+    .ArticleContaine{
+        border-bottom: 0.5px solid gainsboro;
+        border-top: 0.5px solid gainsboro;
+        background-color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+    }
+.ArticleFooter{
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 12px;
+}
+.copyright{
+    margin: top 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    color: dodgerblue;
+    text-align: center;
+}
